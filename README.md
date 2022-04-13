@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @simpli11ity
-- 👀 I’m interested in ... everything from tech to science to politics
+- 👀 I’m interested in ... everything from tech to science to politics to psychology
 - 🌱 I’m currently learning ... AWS solutions architect
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ... impossible stuff
 - 📫 How to reach me ...
 
 <!---
